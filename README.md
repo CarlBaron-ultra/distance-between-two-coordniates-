@@ -1,1 +1,1 @@
-# distance-between-two-coordniates-
+Uses the Great circle distance formula (https://www.geeksforgeeks.org/great-circle-distance-formula/) to compute the distance between two lattitude and longitude coordniates. As of now the program is hard coded to calculate the distance between Cleveland Hopkins airport and Nashville International airport in kilometers
